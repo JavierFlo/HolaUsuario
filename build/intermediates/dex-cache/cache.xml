@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\franc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_f0333d5ac8db1ff6ba7ae1ddd6e8c94ddcc9370a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_b0fe75f2b186e8aec742af5277e16d9e08d4017d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_9471a35c21b082830bfcc2a167955bdf0a055833\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_8bc17c309f92feddd865074bdcd43599f18ef1de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_73f145b27758e2653458607868d607cfb72c7cfa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_423cbe8009020ce5df28ad99fbaa6bee8aded8a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_6780cba62d2ece33dea4eef76702d7c67106bdc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b2f584e4a8c201cba9e852658778135b84d1ede1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_2e6c7c6a4267046924d944e7b198b7c48e010f3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_6536243bbeaceba03f55ab66954d25426dd3a04f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_541a877695f2fbe154530949bfe7a8ed5e4b741d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fa51b0d044e881629e7b79fcd3ecb8e024099821">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8d9eccf38fb670f771d2dbb68c838446e6553ebc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_63c643a2fe61da4e194360165fc7c98dc8bc749d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_74d18a5454b5f543127874e6d2bb489c9d72a881\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fdb9b06eb59ad9c9018a8f5e9d66a5a0c4b40bd7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ea5255ed392677088fd62c8df2bbc4413b1561df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_39eaa41fde987874e75c3a235f13dd95d45f10a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="842f97f44e737c91a34162944460a8cc24567f06">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05395e2801bc7a252c773babb0466afb476c33a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\franc\AndroidStudioProjects\HolaUsuario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_7e35f9124b6cebea23a4dd1647d2c9f782130c1b\classes.dex" />
+    </item>
+
+</items>
